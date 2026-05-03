@@ -3,3 +3,8 @@ runtime/
 .idea/
 .env/
 .env.test/
+.pytest_cache/
+__pycache__/
+.claude/
+.cursor/
+.codex/
