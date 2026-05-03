@@ -1,18 +1,10 @@
-# pp-test
+# CLAUDE.md
 
-基于 Playwright + pytest 的 Web UI 自动化测试框架，使用 Allure 生成测试报告。框架支持多环境配置（DEV, TEST），包含验证码识别、页面操作回退机制等高级功能。
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## 项目概述
 
-这是一个功能完整的 Web UI 自动化测试框架，具有以下特点：
-- 基于 Playwright 的浏览器自动化
-- pytest 测试框架集成
-- Allure 报告生成
-- 多环境配置支持
-- 验证码识别功能
-- 页面操作回退机制
-- Windows 文件对话框处理
-- 环境隔离机制
+这是一个基于 Playwright + pytest 的 Web UI 自动化测试框架，使用 Allure 生成测试报告。框架支持多环境配置（DEV, TEST），包含验证码识别、页面操作回退机制等高级功能。
 
 ## 开发命令
 
