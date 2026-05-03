@@ -5,4 +5,3 @@ allure-pytest
 pyyaml
 pywinauto
 allure-python-commons
-ddddocr

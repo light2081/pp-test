@@ -3,7 +3,6 @@ import os
 import random
 import string
 import sys
-import ddddocr
 from pathlib import Path
 from collections.abc import Callable
 
